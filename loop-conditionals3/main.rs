@@ -1,4 +1,4 @@
-// Very basic confitional while loop
+// Very basic confitional while loop and for loop
 
 fn main() {
     let mut number = 3;
